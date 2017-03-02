@@ -31,7 +31,7 @@ author: @nathanallen
     - Array or "list" (`["Alice", "Sarah"]`, `[10,20,40,99]`)
     - Hash or "dictionary" (`{n: "dash-dot", a:"dot-dash"}`)
 * Binary Sort
-    * [Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms)
+    * [Sorting Algorithm Visualization](https://www.toptal.com/developers/sorting-algorithms)
     * Morse Code as Binary Tree
     * ![](https://upload.wikimedia.org/wikipedia/commons/1/19/Morse-code-tree.svg)
 
