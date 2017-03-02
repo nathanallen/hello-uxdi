@@ -4,10 +4,36 @@ author: @nathanallen
 
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Hello UXDI
 
-## Intro & The Stack
+## Intro
 
 * From English to Computer Science.
 * "The Stack"
+    - Client-Side / Frontend (The Browser)
+        + CSS
+        + HTML
+        + Javascript
+    - The Internet
+        + HTTP protocol / AJAX
+        + JSON
+    - Server-Side / Backend (The Server)
+        + Framework
+            * Ruby on Rails
+            * Python with Django
+        + Database
+        + Operating System
+        + Hardware
+* Data Structures
+    - Boolean (`true`, `false`)
+    - Number
+        + Integer (`0`, `9`, `748`)
+        + Float (`3.14159`, `2.99`)
+    - String or "words" (`"hello"`, `"https://google.com"``)
+    - Array or "list" (`["Alice", "Sarah"]`, `[10,20,40,99]`)
+    - Hash or "dictionary" (`{n: "dash-dot", a:"dot-dash"}`)
+* Binary Sort
+    * [Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms)
+    * Morse Code as Binary Tree
+    * ![](https://upload.wikimedia.org/wikipedia/commons/1/19/Morse-code-tree.svg)
 
 ## Thinking like a computer
 [morning](part-1.md)
