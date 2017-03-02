@@ -66,6 +66,8 @@ Adding it to our page will look like this:
 </html>
 ```
 
+**Exercise**: Can you center the image? What CSS rule would you write? Can you change the image to a different one?
+
 
 <img src="http://i.giphy.com/5pxnxdzdZfXFK.gif" width="400px">
 
