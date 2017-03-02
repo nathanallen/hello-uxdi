@@ -40,7 +40,7 @@ Next, open the file in your browser (you may have to right click and say "open i
 ## Adding Style
 
 Here's an example css rule that turns all the `h1` heading tags the color blue.
-```
+```css
 h1 {
   color: cornflowerblue;
 }
